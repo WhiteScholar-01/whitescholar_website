@@ -1,0 +1,21 @@
+.gradient-background{
+  background: linear-gradient( 30deg,#caed62, hsl(198, 57%, 64%), #afcc57);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+  height: 70vh;
+}
+.fontds{
+  font-family: "Roboto Condensed", sans-serif;
+  font-style: normal;
+  font-stretch:ultra-expanded;
+  color:rgb(253, 211, 26);
+}
+.fontsd{
+    font-family: "Dosis", sans-serif;
+    font-style: normal;
+    color:rgb(89, 89, 84);
+}
+.para{
+    font-family: "Dosis", sans-serif;
+    font-style: normal;  
+}
